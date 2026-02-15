@@ -1,0 +1,744 @@
+{
+    "data": [
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "North San Jose",
+                "state": "California",
+                "street_address": "10 W Trimble Rd",
+                "zipcode": "95131"
+            },
+            "connectors": [
+                {
+                    "available": 2,
+                    "kw": 350,
+                    "speed": "Super fast",
+                    "total": 4,
+                    "type": "CCS"
+                },
+                {
+                    "available": 4,
+                    "kw": 100,
+                    "speed": "Fast",
+                    "total": 6,
+                    "type": "CHAdeMO"
+                },
+                {
+                    "available": 2,
+                    "kw": 100,
+                    "speed": "Fast",
+                    "total": 2,
+                    "type": "CCS"
+                }
+            ],
+            "formatted_address": "10 W Trimble Rd, San Jose, CA 95131",
+            "google_cid": "2449990169922364088",
+            "google_place_id": "ChIJu7G9E9_Lj4ARuOJrNRQdACI",
+            "id": "0x808fcbdf13bdb1bb:0x22001d14356be2b8",
+            "latitude": 37.3851663,
+            "longitude": -121.9289393,
+            "name": "EVgo Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18774943833",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep0NSWx5oFb5I9YtspD_bbegMEQFPAig2NRhEy0f9xeB-LXTpsC6nVWZtRfE0Dzwr0YRW1k2fDI6Yx5jL9mO2Gf5kVCSixS75hHfGpg9X5y5FAO_o38RLbhchyzndNl55HjoWhrHdJQiz8=w4000-h3000-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbdf13bdb1bb:0x22001d14356be2b8",
+            "rating": 4.5,
+            "review_count": 31,
+            "t": "crl",
+            "website": "https://www.evgo.com/find-a-charger/ca/san-jose/10-w-trimble-rd-369535"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "North San Jose",
+                "state": "California",
+                "street_address": "760 Newhall Dr",
+                "zipcode": "95110"
+            },
+            "connectors": [
+                {
+                    "available": 5,
+                    "kw": 350,
+                    "speed": "Super fast",
+                    "total": 6,
+                    "type": "CCS"
+                }
+            ],
+            "formatted_address": "760 Newhall Dr, San Jose, CA 95110",
+            "google_cid": "17828652833943869140",
+            "google_place_id": "ChIJc1sD6b_Lj4AR1Fb8zkoZbPc",
+            "id": "0x808fcbbfe9035b73:0xf76c194acefc56d4",
+            "latitude": 37.3505062,
+            "longitude": -121.92285389999999,
+            "name": "Electrify America Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18336322778",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq8bzvuvmFK_YcMHdVI_k3THG1-k5x1p_K2F4iYHWY3RWw3aNe51Zs55bCNgzStDhIxwJVQXsW7RhUe3ohMqGXwWJQWN_4_DEGLjv6Nags7VOzajKnmFYhYcbRmUBMpofg-qcDKEg=w2823-h2098-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbbfe9035b73:0xf76c194acefc56d4",
+            "rating": 4.1,
+            "review_count": 11,
+            "website": "https://www.electrifyamerica.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "533 Coleman Ave",
+                "zipcode": "95110"
+            },
+            "connectors": [
+                {
+                    "available": 6,
+                    "kw": 150,
+                    "speed": "Very fast",
+                    "total": 12,
+                    "type": "Tesla"
+                }
+            ],
+            "formatted_address": "533 Coleman Ave, San Jose, CA 95110",
+            "google_cid": "8169138764501882667",
+            "google_place_id": "ChIJg_KB-__Lj4ARKxcCo2ycXnE",
+            "id": "0x808fcbfffb81f283:0x715e9c6ca302172b",
+            "latitude": 37.339563,
+            "longitude": -121.90365999999999,
+            "name": "Tesla Supercharger",
+            "opening_hours": {},
+            "phone_number": "+18777983752",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwereN6h1IVy6bgJvPBBKmJ6skaBNO_IWfPPs9nb7D1xOJtzsysW0IAers0bKI5h8dih04nGp_pG9f5g5zjvyRdToUeFsFiDxhJMZbLiwC06pyZPrH77qEvWMxUzTIgGFdBRvkLT-=w4624-h3468-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbfffb81f283:0x715e9c6ca302172b",
+            "rating": 4.3,
+            "review_count": 131,
+            "website": "https://tesla.com/charge"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "630 Stockton Ave",
+                "zipcode": "95126"
+            },
+            "connectors": [
+                {
+                    "available": null,
+                    "kw": 63,
+                    "speed": "Fast",
+                    "total": 1,
+                    "type": "CHAdeMO"
+                },
+                {
+                    "available": null,
+                    "kw": 62,
+                    "speed": "Fast",
+                    "total": 1,
+                    "type": "CCS"
+                },
+                {
+                    "available": null,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 4,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "630 Stockton Ave, San Jose, CA 95126",
+            "google_cid": "1233548374257450014",
+            "google_place_id": "ChIJFbxvpmXLj4ARHjzg9LVxHhE",
+            "id": "0x808fcb65a66fbc15:0x111e71b5f4e03c1e",
+            "latitude": 37.339833,
+            "longitude": -121.911169,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": null,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcb65a66fbc15:0x111e71b5f4e03c1e",
+            "rating": null,
+            "review_count": 0,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "55 Race St",
+                "zipcode": "95126"
+            },
+            "connectors": [
+                {
+                    "available": 5,
+                    "kw": 325,
+                    "speed": "Very fast",
+                    "total": 8,
+                    "type": "NACS"
+                }
+            ],
+            "formatted_address": "55 Race St, San Jose, CA 95126",
+            "google_cid": "13722485361924836353",
+            "google_place_id": "ChIJMbpV21zLj4ARAQwHWbsPcL4",
+            "id": "0x808fcb5cdb55ba31:0xbe700fbb59070c01",
+            "latitude": 37.3296328,
+            "longitude": -121.9122091,
+            "name": "Tesla Supercharger",
+            "opening_hours": {},
+            "phone_number": "+18777983752",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwertw9O2vwS_G0NgT_1z4WTc8Rg4WlUKSfYIERJtvNDTGO3_IuF-q8oB0xCqL40BjLdOn7bastpUwHrOsCJMZggb6VGXICSOFSUTC3EzaKUgYIU1gl9Aomq8US9mByMlOcNfrfA=w4032-h3024-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcb5cdb55ba31:0xbe700fbb59070c01",
+            "rating": 4,
+            "review_count": 4,
+            "website": "https://tesla.com/charge"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "North San Jose",
+                "state": "California",
+                "street_address": "2105 N First St",
+                "zipcode": "95112"
+            },
+            "connectors": [
+                {
+                    "available": 6,
+                    "kw": 325,
+                    "speed": "Very fast",
+                    "total": 12,
+                    "type": "NACS"
+                }
+            ],
+            "formatted_address": "2105 N First St, San Jose, CA 95112",
+            "google_cid": "17616166250187287826",
+            "google_place_id": "ChIJ4-JfYOnLj4AREm2jvt4xefQ",
+            "id": "0x808fcbe9605fe2e3:0xf47931debea36d12",
+            "latitude": 37.3735772,
+            "longitude": -121.9204182,
+            "name": "Tesla Supercharger",
+            "opening_hours": {},
+            "phone_number": "+18777983752",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoGLYUAlZ6CbWofL68JOuBoOvVbFc4KLBWy5kxilFs_cRIHVQt0f2s1S8-aKLkd2BtCXlEUnumkKkNRIgdDRYgy6k1AHnEHPOMrW8ne_uSp3_LAQZ0j3LP_jKj1dToGkcpZ7nOGjA=w4032-h3024-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbe9605fe2e3:0xf47931debea36d12",
+            "rating": 3.7,
+            "review_count": 10,
+            "website": "https://tesla.com/charge"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "North San Jose",
+                "state": "California",
+                "street_address": "2191 Zanker Rd",
+                "zipcode": "95131"
+            },
+            "connectors": [
+                {
+                    "available": null,
+                    "kw": 62,
+                    "speed": "Fast",
+                    "total": 1,
+                    "type": "CCS"
+                },
+                {
+                    "available": null,
+                    "kw": 62,
+                    "speed": "Fast",
+                    "total": 1,
+                    "type": "NACS"
+                }
+            ],
+            "formatted_address": "2191 Zanker Rd, San Jose, CA 95131",
+            "google_cid": "16133891447031446667",
+            "google_place_id": "ChIJkdzbmuXLj4ARi7wFQcoY598",
+            "id": "0x808fcbe59adbdc91:0xdfe718ca4105bc8b",
+            "latitude": 37.37999,
+            "longitude": -121.916579,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SiZeujxziAHbuGBtx0iS9g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=246.75267&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbe59adbdc91:0xdfe718ca4105bc8b",
+            "rating": null,
+            "review_count": 0,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "333 W Santa Clara St",
+                "zipcode": "95113"
+            },
+            "connectors": [
+                {
+                    "available": 8,
+                    "kw": 15,
+                    "speed": "Medium",
+                    "total": 8,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "333 W Santa Clara St, San Jose, CA 95113",
+            "google_cid": "15721790751312111003",
+            "google_place_id": "ChIJrRL-fKHMj4ARm-X6BGQFL9o",
+            "id": "0x808fcca17cfe12ad:0xda2f056404fae59b",
+            "latitude": 37.334469,
+            "longitude": -121.896288,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4zXyhcMhd-RVM8MKJJMh7g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=240.24785&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcca17cfe12ad:0xda2f056404fae59b",
+            "rating": 5,
+            "review_count": 1,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "1020 N 4th St",
+                "zipcode": "95112"
+            },
+            "connectors": [
+                {
+                    "available": 1,
+                    "kw": 14,
+                    "speed": "Medium",
+                    "total": 1,
+                    "type": "J1772"
+                },
+                {
+                    "available": 2,
+                    "kw": 9,
+                    "speed": "Slow",
+                    "total": 2,
+                    "type": "J1772"
+                },
+                {
+                    "available": 2,
+                    "kw": 3,
+                    "speed": "Slow",
+                    "total": 2,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "1020 N 4th St, San Jose, CA 95112",
+            "google_cid": "13627711309624827502",
+            "google_place_id": "ChIJNcEsgn_Mj4ARbt7CvztbH70",
+            "id": "0x808fcc7f822cc135:0xbd1f5b3bbfc2de6e",
+            "latitude": 37.357302,
+            "longitude": -121.901411,
+            "name": "Blink Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18889982546",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pQRU6TBwr9REwH_vNeLeSg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=240.38185&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcc7f822cc135:0xbd1f5b3bbfc2de6e",
+            "rating": 4,
+            "review_count": 2,
+            "website": "http://www.blinkcharging.com"
+        },
+        {
+            "address_components": {
+                "city": "Santa Clara",
+                "country": "US",
+                "district": null,
+                "state": "California",
+                "street_address": "1484 Don Ave",
+                "zipcode": "95050"
+            },
+            "connectors": [
+                {
+                    "available": 0,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 6,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "1484 Don Ave, Santa Clara, CA 95050",
+            "google_cid": "8705708079613199385",
+            "google_place_id": "ChIJsRYn0EnKj4ARGcSXo1_j0Hg",
+            "id": "0x808fca49d02716b1:0x78d0e35fa397c419",
+            "latitude": 37.357501899999995,
+            "longitude": -121.95524999999999,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep8vCuaGl1mhhMiV8fN7_8mgupao3ZnXZtPSwI2DmKh4pr78HGTWAqqSlDUPzGIX4Yi1faieERK6sv1-7A1vLlxOQUdHGSu1UEmfy9PQwfXgdB7jixaEVmCI5cBrselfFtSEl1tYw=w4032-h3024-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fca49d02716b1:0x78d0e35fa397c419",
+            "rating": 5,
+            "review_count": 1,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "45 N Market St",
+                "zipcode": "95113"
+            },
+            "connectors": [
+                {
+                    "available": 13,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 14,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "45 N Market St, San Jose, CA 95113",
+            "google_cid": "15000895164491131409",
+            "google_place_id": "ChIJB_wu-KLMj4AREWpeiKziLdA",
+            "id": "0x808fcca2f82efc07:0xd02de2ac885e6a11",
+            "latitude": 37.3364635,
+            "longitude": -121.8931133,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoHy-UQ7GyNdiyLq5nY-ezs7MnixY_auNEk4MbQEONoPhW7tUs8KfLT264iVG8EjyhnF3s31T1db9m5KwMwV2rczJLeckqZszWqdEPD_IgqJPbC1hPViDPKjol3hvdiSwug_So=w4032-h3024-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcca2f82efc07:0xd02de2ac885e6a11",
+            "rating": 4,
+            "review_count": 4,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "Santa Clara",
+                "country": "US",
+                "district": null,
+                "state": "California",
+                "street_address": "425 El Camino Real",
+                "zipcode": "95050"
+            },
+            "connectors": [
+                {
+                    "available": 4,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 4,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "425 El Camino Real, Santa Clara, CA 95050",
+            "google_cid": "8651297367148543342",
+            "google_place_id": "ChIJy3bbeafLj4ARbj0pbx6VD3g",
+            "id": "0x808fcba779db76cb:0x780f951e6f293d6e",
+            "latitude": 37.3461722,
+            "longitude": -121.93284879999999,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqtOMH19SxtlkhyUDDDctiwLM_38y8WBc-2rsGa6f-iev4zZmaGW2AnSeDivVOTcr5DZHxa10PaR2asQcv5PpjxwEqsqEo7UgLFx1UNIMYOWq7tt7TQYFic8_aX4j6LwtalwanK=w1080-h1920-k-no",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcba779db76cb:0x780f951e6f293d6e",
+            "rating": 3,
+            "review_count": 2,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Civic Center",
+                "state": "California",
+                "street_address": "950 N San Pedro St",
+                "zipcode": "95110"
+            },
+            "connectors": [
+                {
+                    "available": 9,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 12,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "950 N San Pedro St, San Jose, CA 95110",
+            "google_cid": "9371199770586815178",
+            "google_place_id": "ChIJO1AOYX_Lj4ARypoMZYowDYI",
+            "id": "0x808fcb7f610e503b:0x820d308a650c9aca",
+            "latitude": 37.3535027,
+            "longitude": -121.9058304,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ck6PDSEebr3bYuGOmJy9GQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=257.58618&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcb7f610e503b:0x820d308a650c9aca",
+            "rating": 3.1,
+            "review_count": 8,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "Central San Jose",
+                "state": "California",
+                "street_address": "657 Horning St",
+                "zipcode": "95112"
+            },
+            "connectors": [
+                {
+                    "available": 1,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 2,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "657 Horning St, San Jose, CA 95112",
+            "google_cid": "2015895045574815013",
+            "google_place_id": "ChIJrxqRl3zMj4ARJe30_9zl-Rs",
+            "id": "0x808fcc7c97911aaf:0x1bf9e5dcfff4ed25",
+            "latitude": 37.362041,
+            "longitude": -121.891956,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uy8-ep0mtUWfzHaHoMr69Q&cb_client=search.gws-prod.gps&w=86&h=86&yaw=41.315117&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcc7c97911aaf:0x1bf9e5dcfff4ed25",
+            "rating": 2.8,
+            "review_count": 4,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "Santa Clara",
+                "country": "US",
+                "district": null,
+                "state": "California",
+                "street_address": "350 Chastain Pl",
+                "zipcode": "95050"
+            },
+            "connectors": [
+                {
+                    "available": 4,
+                    "kw": 12,
+                    "speed": "Medium",
+                    "total": 4,
+                    "type": "J1772"
+                },
+                {
+                    "available": 5,
+                    "kw": 10,
+                    "speed": "Medium",
+                    "total": 7,
+                    "type": "J1772"
+                },
+                {
+                    "available": 22,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 22,
+                    "type": "J1772"
+                },
+                {
+                    "available": 13,
+                    "kw": 6,
+                    "speed": "Slow",
+                    "total": 13,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "350 Chastain Pl, Santa Clara, CA 95050",
+            "google_cid": "17068405563035264507",
+            "google_place_id": "ChIJ5cR51rrLj4AR-6UEY20o3-w",
+            "id": "0x808fcbbad679c4e5:0xecdf286d6304a5fb",
+            "latitude": 37.3554172,
+            "longitude": -121.93322599999999,
+            "name": "Blink Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18889982546",
+            "photo": null,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbbad679c4e5:0xecdf286d6304a5fb",
+            "rating": null,
+            "review_count": 0,
+            "website": "http://www.blinkcharging.com"
+        },
+        {
+            "address_components": {
+                "city": "Santa Clara",
+                "country": "US",
+                "district": null,
+                "state": "California",
+                "street_address": "500 El Camino Real",
+                "zipcode": "95050"
+            },
+            "connectors": [
+                {
+                    "available": 7,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 8,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "500 El Camino Real, Santa Clara, CA 95050",
+            "google_cid": "16816961159522367041",
+            "google_place_id": "ChIJX_NLR6_Lj4ARQTbfEhPZYek",
+            "id": "0x808fcbaf474bf35f:0xe961d91312df3641",
+            "latitude": 37.349962,
+            "longitude": -121.937288,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oPEvQcaAdcsdrz7FgKLB7A&cb_client=search.gws-prod.gps&w=86&h=86&yaw=95.19891&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcbaf474bf35f:0xe961d91312df3641",
+            "rating": null,
+            "review_count": 0,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "Santa Clara",
+                "country": "US",
+                "district": null,
+                "state": "California",
+                "street_address": "1500 Warburton Ave",
+                "zipcode": "95050"
+            },
+            "connectors": [
+                {
+                    "available": 1,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 6,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "1500 Warburton Ave, Santa Clara, CA 95050",
+            "google_cid": "15259471258889211402",
+            "google_place_id": "ChIJVfLEEUnKj4ARCs5fBkOIxNM",
+            "id": "0x808fca4911c4f255:0xd3c48843065fce0a",
+            "latitude": 37.3547677,
+            "longitude": -121.953648,
+            "name": "Blink Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18555212244",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=i2GHJ59DkHYEIHSZcQu0sw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=319.89883&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fca4911c4f255:0xd3c48843065fce0a",
+            "rating": 2,
+            "review_count": 1,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "Santa Clara",
+                "country": "US",
+                "district": null,
+                "state": "California",
+                "street_address": "Cowell Service Road, 500 El Camino Real",
+                "zipcode": "95053"
+            },
+            "connectors": [
+                {
+                    "available": 2,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 2,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "Cowell Service Road, 500 El Camino Real, Santa Clara, CA 95053",
+            "google_cid": "16421739249839441222",
+            "google_place_id": "ChIJXfv2n6jLj4ARRgXFdNe85eM",
+            "id": "0x808fcba89ff6fb5d:0xe3e5bcd774c50546",
+            "latitude": 37.348251,
+            "longitude": -121.935991,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=J5rfK3K2Wtwf6s71lbQptA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=124.734795&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcba89ff6fb5d:0xe3e5bcd774c50546",
+            "rating": null,
+            "review_count": 0,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "North San Jose",
+                "state": "California",
+                "street_address": "1661 Airport Blvd",
+                "zipcode": "95110"
+            },
+            "connectors": [
+                {
+                    "available": 3,
+                    "kw": 7,
+                    "speed": "Slow",
+                    "total": 10,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "1661 Airport Blvd, San Jose, CA 95110",
+            "google_cid": "327538083104639293",
+            "google_place_id": "ChIJg1i5eJbLj4ARPUndtSamiwQ",
+            "id": "0x808fcb9678b95883:0x48ba626b5dd493d",
+            "latitude": 37.3631911,
+            "longitude": -121.9221295,
+            "name": "ChargePoint Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18887584389",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CwpL3imfLj3lSk9h4LcKSw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=242.51166&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcb9678b95883:0x48ba626b5dd493d",
+            "rating": 4,
+            "review_count": 4,
+            "website": "https://www.chargepoint.com"
+        },
+        {
+            "address_components": {
+                "city": "San Jose",
+                "country": "US",
+                "district": "North San Jose",
+                "state": "California",
+                "street_address": "1721 Skyport Dr",
+                "zipcode": "95110"
+            },
+            "connectors": [
+                {
+                    "available": 1,
+                    "kw": 12,
+                    "speed": "Medium",
+                    "total": 1,
+                    "type": "J1772"
+                },
+                {
+                    "available": 4,
+                    "kw": 6,
+                    "speed": "Slow",
+                    "total": 5,
+                    "type": "J1772"
+                }
+            ],
+            "formatted_address": "1721 Skyport Dr, San Jose, CA 95110",
+            "google_cid": "1254557669637195840",
+            "google_place_id": "ChIJZRmPBpLLj4ARQIj3uI0VaRE",
+            "id": "0x808fcb92068f1965:0x1169158db8f78840",
+            "latitude": 37.366273,
+            "longitude": -121.913478,
+            "name": "Blink Charging Station",
+            "opening_hours": {},
+            "phone_number": "+18889982546",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AmDKH8TLFpwfCKEoA2GEDQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=56.247387&pitch=0&thumbfov=100",
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x808fcb92068f1965:0x1169158db8f78840",
+            "rating": null,
+            "review_count": 0,
+            "website": "http://www.blinkcharging.com"
+        }
+    ],
+    "request_id": "6e3bbbac-4042-4c5a-addd-ed2893120078",
+    "status": "OK"
+}
